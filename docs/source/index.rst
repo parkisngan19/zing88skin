@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Zing88 – Cổng Game Đa Dạng, Đỉnh Cao và An Toàn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Zing88 <https://zing88.skin/>`_ là cổng game hàng đầu mang đến những trải nghiệm đỉnh cao với sự đa dạng, phong phú và an toàn cho mọi người chơi. Với sứ mệnh lan tỏa niềm vui và thử thách, Zing88 không chỉ cung cấp các tựa game hành động, trí tuệ, và casino đỉnh cao với đồ họa sắc nét, mà còn liên tục cập nhật những xu hướng game mới. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Zing88 cam kết an toàn tuyệt đối nhờ công nghệ bảo mật đa lớp và giao dịch minh bạch, đồng thời mang đến nhiều ưu đãi hấp dẫn như thưởng nạp đầu tiên, khuyến mãi hàng ngày và sự kiện đặc biệt. Đặc biệt, Zing88 là không gian kết nối cộng đồng người chơi nhiệt huyết. Tham gia Zing88 ngay hôm nay để khám phá thế giới game độc đáo và thú vị!
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 122 Đ. 2 Tháng 9, Bình Thuận, Hải Châu, Đà Nẵng 550000. 
 
-Contents
---------
+Hotline: 0971679348. 
 
-.. toctree::
+Email: info@zing88.skin. 
 
-   usage
-   api
+Website: https://zing88.skin/ 
+
+#zing88 #trangchuzing88 #dangkyzing88 #dangnhapzing88 #linkzing88
